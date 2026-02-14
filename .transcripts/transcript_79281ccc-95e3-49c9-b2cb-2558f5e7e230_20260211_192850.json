@@ -1,0 +1,50 @@
+{
+  "call_uuid": "79281ccc-95e3-49c9-b2cb-2558f5e7e230",
+  "start_time": "2026-02-11T19:27:59.525609",
+  "end_time": "2026-02-11T19:28:50.527930",
+  "duration_seconds": 48.86,
+  "preferred_language": "hi-IN",
+  "final_language": "hi-IN",
+  "language_switches": 0,
+  "language_history": [],
+  "conversation": [
+    {
+      "speaker": "AI",
+      "text": "नमस्ते, मैं वित्त एजेंसी से आपके लोन भुगतान के बारे में कॉल कर रही हूं। कृपया अपनी वर्तमान भुगतान स्थिति बताएं?",
+      "timestamp": "2026-02-11T19:27:59.525620",
+      "language": "hi-IN"
+    },
+    {
+      "speaker": "User",
+      "text": "मैं परसों पे कर दूंगी ठीक है",
+      "timestamp": "2026-02-11T19:28:17.506319",
+      "language": "hi-IN"
+    },
+    {
+      "speaker": "AI",
+      "text": "धन्यवाद। मैं आपके भुगतान की उम्मीद परसों तक कर रही हूँ। क्या आप मुझे परसों।",
+      "timestamp": "2026-02-11T19:28:21.763261",
+      "language": "hi-IN"
+    },
+    {
+      "speaker": "User",
+      "text": "हां जी सर, मैं आपको बताऊं कि जो एक्चुअल है ये क्या है?",
+      "timestamp": "2026-02-11T19:28:43.759559",
+      "language": "hi-IN"
+    },
+    {
+      "speaker": "AI",
+      "text": "जी, मैं आपको आपके बकाया राशि की पूरी जानकारी दे सकती हूँ। क्या आप परसों तक भुगतान।",
+      "timestamp": "2026-02-11T19:28:47.648192",
+      "language": "hi-IN"
+    }
+  ],
+  "ai_analysis": {
+    "summary": "The AI collection agent contacted the borrower regarding their loan payment. The borrower stated they will make the payment the day after tomorrow (parson).",
+    "sentiment": "Positive",
+    "sentiment_reasoning": "The borrower sounds cooperative and agrees to make the payment soon.",
+    "intent": "Will Pay",
+    "intent_reasoning": "The borrower explicitly states they will pay \"parson\" (the day after tomorrow).",
+    "payment_date": null
+  }
+}

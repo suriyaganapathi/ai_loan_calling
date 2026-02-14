@@ -1,0 +1,26 @@
+{
+  "call_uuid": "997205a0-fb27-4f09-b50e-4148ea9fc509",
+  "start_time": "2026-02-11T19:24:18.192853",
+  "end_time": "2026-02-11T19:24:30.909594",
+  "duration_seconds": 12.72,
+  "preferred_language": "hi-IN",
+  "final_language": "hi-IN",
+  "language_switches": 0,
+  "language_history": [],
+  "conversation": [
+    {
+      "speaker": "AI",
+      "text": "नमस्ते, मैं वित्त एजेंसी से आपके लोन भुगतान के बारे में कॉल कर रही हूं। कृपया अपनी वर्तमान भुगतान स्थिति बताएं?",
+      "timestamp": "2026-02-11T19:24:18.192867",
+      "language": "hi-IN"
+    }
+  ],
+  "ai_analysis": {
+    "summary": "No meaningful conversation detected",
+    "sentiment": "No Response",
+    "sentiment_reasoning": "Insufficient data",
+    "intent": "No Response",
+    "intent_reasoning": "Call ended without engagement",
+    "payment_date": null
+  }
+}

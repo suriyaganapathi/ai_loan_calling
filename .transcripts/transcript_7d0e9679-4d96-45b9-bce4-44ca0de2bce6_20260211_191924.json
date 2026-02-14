@@ -1,0 +1,87 @@
+{
+  "call_uuid": "7d0e9679-4d96-45b9-bce4-44ca0de2bce6",
+  "start_time": "2026-02-11T19:18:31.924485",
+  "end_time": "2026-02-11T19:19:24.247433",
+  "duration_seconds": 49.31,
+  "preferred_language": "hi-IN",
+  "final_language": "hi-IN",
+  "language_switches": 0,
+  "language_history": [],
+  "conversation": [
+    {
+      "speaker": "AI",
+      "text": "नमस्ते, मैं वित्त एजेंसी से आपके लोन भुगतान के बारे में कॉल कर रही हूं। कृपया अपनी वर्तमान भुगतान स्थिति बताएं?",
+      "timestamp": "2026-02-11T19:18:31.924497",
+      "language": "hi-IN"
+    },
+    {
+      "speaker": "User",
+      "text": "हम्म हम्म हम्म हम्म हम्म",
+      "timestamp": "2026-02-11T19:18:44.583115",
+      "language": "hi-IN"
+    },
+    {
+      "speaker": "AI",
+      "text": "मैं समझ सकती हूँ। क्या आप मुझे अपने लोन भुगतान की वर्तमान स्थिति के बारे में बता सकती हैं?",
+      "timestamp": "2026-02-11T19:18:48.112499",
+      "language": "hi-IN"
+    },
+    {
+      "speaker": "User",
+      "text": "मैं परसों पे कर दूंगी ठीक है",
+      "timestamp": "2026-02-11T19:18:51.601045",
+      "language": "hi-IN"
+    },
+    {
+      "speaker": "AI",
+      "text": "बहुत अच्छा। क्या आप मुझे भुगतान की सटीक तारीख बता सकती हैं ताकि मैं इसे नोट कर सकूँ?",
+      "timestamp": "2026-02-11T19:18:55.161656",
+      "language": "hi-IN"
+    },
+    {
+      "speaker": "User",
+      "text": "मैं परसों पे कर दूँगी ठीक है",
+      "timestamp": "2026-02-11T19:18:59.470257",
+      "language": "hi-IN"
+    },
+    {
+      "speaker": "AI",
+      "text": "धन्यवाद। मैं परसों तक आपके भुगतान की उम्मीद कर रही हूँ।",
+      "timestamp": "2026-02-11T19:19:02.600498",
+      "language": "hi-IN"
+    },
+    {
+      "speaker": "User",
+      "text": "मैं अ पे आ रही हूँ",
+      "timestamp": "2026-02-11T19:19:08.441962",
+      "language": "hi-IN"
+    },
+    {
+      "speaker": "AI",
+      "text": "क्षमा करें, मैं आपकी बात पूरी तरह समझ नहीं पाई। क्या आप भुगतान की।",
+      "timestamp": "2026-02-11T19:19:11.789643",
+      "language": "hi-IN"
+    },
+    {
+      "speaker": "User",
+      "text": "मैं तेरह तारीख को पे कर दूँगी",
+      "timestamp": "2026-02-11T19:19:15.488394",
+      "language": "hi-IN"
+    },
+    {
+      "speaker": "AI",
+      "text": "धन्यवाद। मैं तेरह तारीख तक आपके भुगतान की उम्मीद कर रही हूँ।",
+      "timestamp": "2026-02-11T19:19:17.098203",
+      "language": "hi-IN"
+    }
+  ],
+  "ai_analysis": {
+    "summary": "Unable to analyze conversation - API error",
+    "sentiment": "Neutral",
+    "sentiment_reasoning": "Error in analysis",
+    "intent": "No Response",
+    "intent_reasoning": "Error in analysis",
+    "payment_date": null,
+    "error": "429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'Resource exhausted. Please try again later. Please refer to https://cloud.google.com/vertex-ai/generative-ai/docs/error-code-429 for more details.', 'status': 'RESOURCE_EXHAUSTED'}}"
+  }
+}

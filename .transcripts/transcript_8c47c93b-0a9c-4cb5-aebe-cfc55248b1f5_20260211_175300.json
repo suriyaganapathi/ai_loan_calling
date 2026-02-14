@@ -1,0 +1,63 @@
+{
+  "call_uuid": "8c47c93b-0a9c-4cb5-aebe-cfc55248b1f5",
+  "start_time": "2026-02-11T17:52:23.876576",
+  "end_time": "2026-02-11T17:53:00.282394",
+  "duration_seconds": 35.73,
+  "preferred_language": "hi-IN",
+  "final_language": "hi-IN",
+  "language_switches": 0,
+  "language_history": [],
+  "conversation": [
+    {
+      "speaker": "AI",
+      "text": "नमस्ते, मैं वित्त एजेंसी से आपके लोन भुगतान के बारे में कॉल कर रही हूं। कृपया अपनी वर्तमान भुगतान स्थिति बताएं?",
+      "timestamp": "2026-02-11T17:52:23.876584",
+      "language": "hi-IN"
+    },
+    {
+      "speaker": "User",
+      "text": "हाँ जी, मैं आपको बताऊँ क्या है?",
+      "timestamp": "2026-02-11T17:52:35.343663",
+      "language": "hi-IN"
+    },
+    {
+      "speaker": "AI",
+      "text": null,
+      "timestamp": "2026-02-11T17:52:37.419531",
+      "language": "hi-IN"
+    },
+    {
+      "speaker": "User",
+      "text": "मैं कल पे कर दूंगी ठीक है",
+      "timestamp": "2026-02-11T17:52:39.688031",
+      "language": "hi-IN"
+    },
+    {
+      "speaker": "AI",
+      "text": null,
+      "timestamp": "2026-02-11T17:52:41.925134",
+      "language": "hi-IN"
+    },
+    {
+      "speaker": "User",
+      "text": "हाँ जी, मैं आपको बता रही हूँ कि मैं आज से एक बार यहां पर जा रही हूँ।",
+      "timestamp": "2026-02-11T17:52:55.078542",
+      "language": "hi-IN"
+    },
+    {
+      "speaker": "AI",
+      "text": "ठीक है, मैं समझ रही हूँ। तो आप कल भुगतान कर देंगी, है ना?",
+      "timestamp": "2026-02-11T17:52:57.284807",
+      "language": "hi-IN"
+    }
+  ],
+  "ai_analysis": {
+    "summary": "Unable to analyze conversation - API error",
+    "sentiment": "Neutral",
+    "sentiment_reasoning": "Error in analysis",
+    "intent": "No Response",
+    "intent_reasoning": "Error in analysis",
+    "payment_date": null,
+    "error": "429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'Resource exhausted. Please try again later. Please refer to https://cloud.google.com/vertex-ai/generative-ai/docs/error-code-429 for more details.', 'status': 'RESOURCE_EXHAUSTED'}}"
+  }
+}

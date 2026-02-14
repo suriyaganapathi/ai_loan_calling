@@ -1,0 +1,60 @@
+{
+  "call_uuid": "dummy-ad5587f4-79f7-4e3e-ba26-3b15a33ff9ee",
+  "borrower_id": "11689",
+  "phone_number": "7092105433",
+  "start_time": "2026-02-11T15:42:39.519492",
+  "end_time": "2026-02-11T15:43:17.611455",
+  "duration_seconds": 38.09,
+  "preferred_language": "hi-IN",
+  "final_language": "hi-IN",
+  "language_switches": 0,
+  "language_history": [],
+  "conversation": [
+    {
+      "speaker": "AI",
+      "text": "नमस्ते, मैं वित्त एजेंसी से आपके लोन भुगतान के बारे में कॉल कर रहा हूं। कृपया अपनी वर्तमान भुगतान स्थिति बताएं?",
+      "timestamp": "2026-02-11T15:42:46.481791",
+      "language": "hi-IN"
+    },
+    {
+      "speaker": "User",
+      "text": "मैं परसों पेमेंट कर दूंगा, ठीक है?",
+      "timestamp": "2026-02-11T15:42:52.316428",
+      "language": "hi-IN"
+    },
+    {
+      "speaker": "AI",
+      "text": "धन्यवाद। क्या आप कृपया विशिष्ट तारीख बता सकते हैं?",
+      "timestamp": "2026-02-11T15:42:57.435754",
+      "language": "hi-IN"
+    },
+    {
+      "speaker": "User",
+      "text": "मैं 12 फरवरी को भुगतान कर दूंगा।",
+      "timestamp": "2026-02-11T15:43:02.873888",
+      "language": "hi-IN"
+    },
+    {
+      "speaker": "AI",
+      "text": "धन्यवाद। हम 12 फरवरी को आपके भुगतान का इंतजार करेंगे।",
+      "timestamp": "2026-02-11T15:43:10.039018",
+      "language": "hi-IN"
+    },
+    {
+      "speaker": "User",
+      "text": "ठीक है, धन्यवाद।",
+      "timestamp": "2026-02-11T15:43:17.611455",
+      "language": "hi-IN"
+    }
+  ],
+  "ai_analysis": {
+    "summary": "The AI collection agent called the borrower about their outstanding loan payment. The borrower committed to making the payment the day after tomorrow and later specified the exact date as February 12th. The agent acknowledged and confirmed this payment arrangement.",
+    "sentiment": "Positive",
+    "sentiment_reasoning": "The borrower was cooperative, directly answered the agent's questions, and promptly committed to a payment date without any signs of frustration or negativity. The closing 'ठीक है, धन्यवाद' also indicates a polite and amicable interaction.",
+    "intent": "Will Pay",
+    "intent_reasoning": "The borrower explicitly stated they would make the payment ('मैं परसों पेमेंट कर दूंगा', 'मैं 12 फरवरी को भुगतान कर दूंगा') and provided a specific date for it.",
+    "payment_date": "2024-02-12"
+  },
+  "is_dummy": true,
+  "note": "This is a simulated conversation for testing purposes. No actual call was made."
+}

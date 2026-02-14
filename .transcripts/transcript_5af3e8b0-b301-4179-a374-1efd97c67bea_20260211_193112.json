@@ -1,0 +1,51 @@
+{
+  "call_uuid": "5af3e8b0-b301-4179-a374-1efd97c67bea",
+  "start_time": "2026-02-11T19:30:34.690233",
+  "end_time": "2026-02-11T19:31:12.623179",
+  "duration_seconds": 36.97,
+  "preferred_language": "hi-IN",
+  "final_language": "hi-IN",
+  "language_switches": 0,
+  "language_history": [],
+  "conversation": [
+    {
+      "speaker": "AI",
+      "text": "नमस्ते, मैं वित्त एजेंसी से आपके लोन भुगतान के बारे में कॉल कर रही हूं। कृपया अपनी वर्तमान भुगतान स्थिति बताएं?",
+      "timestamp": "2026-02-11T19:30:34.690240",
+      "language": "hi-IN"
+    },
+    {
+      "speaker": "User",
+      "text": "मैं परसों पे कर दूंगी ठीक है",
+      "timestamp": "2026-02-11T19:30:48.364461",
+      "language": "hi-IN"
+    },
+    {
+      "speaker": "AI",
+      "text": "समझ गई। तो, आप परसों भुगतान कर देंगी। हम आपके भुगतान की पुष्टि का इंतजार करेंगे।",
+      "timestamp": "2026-02-11T19:30:50.515834",
+      "language": "hi-IN"
+    },
+    {
+      "speaker": "User",
+      "text": "ओके थैंक यू बाय धन्यवाद",
+      "timestamp": "2026-02-11T19:31:04.311868",
+      "language": "hi-IN"
+    },
+    {
+      "speaker": "AI",
+      "text": "धन्यवाद, आपका दिन शुभ हो।",
+      "timestamp": "2026-02-11T19:31:06.573632",
+      "language": "hi-IN"
+    }
+  ],
+  "ai_analysis": {
+    "summary": "Unable to analyze conversation - API error",
+    "sentiment": "Neutral",
+    "sentiment_reasoning": "Error in analysis",
+    "intent": "No Response",
+    "intent_reasoning": "Error in analysis",
+    "payment_date": null,
+    "error": "429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'Resource exhausted. Please try again later. Please refer to https://cloud.google.com/vertex-ai/generative-ai/docs/error-code-429 for more details.', 'status': 'RESOURCE_EXHAUSTED'}}"
+  }
+}

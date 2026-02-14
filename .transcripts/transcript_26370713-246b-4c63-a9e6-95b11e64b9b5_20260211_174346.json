@@ -1,0 +1,74 @@
+{
+  "call_uuid": "26370713-246b-4c63-a9e6-95b11e64b9b5",
+  "start_time": "2026-02-11T17:43:03.943357",
+  "end_time": "2026-02-11T17:43:46.893082",
+  "duration_seconds": 41.26,
+  "preferred_language": "hi-IN",
+  "final_language": "hi-IN",
+  "language_switches": 0,
+  "language_history": [],
+  "conversation": [
+    {
+      "speaker": "AI",
+      "text": "नमस्ते, मैं वित्त एजेंसी से आपके लोन भुगतान के बारे में कॉल कर रही हूं। कृपया अपनी वर्तमान भुगतान स्थिति बताएं?",
+      "timestamp": "2026-02-11T17:43:03.943363",
+      "language": "hi-IN"
+    },
+    {
+      "speaker": "User",
+      "text": "हाँ जी सर, मैं आपको बताऊँ क्या है?",
+      "timestamp": "2026-02-11T17:43:10.708796",
+      "language": "hi-IN"
+    },
+    {
+      "speaker": "AI",
+      "text": "जी, बताइए क्या बात है? क्या आप अपने लोन के भुगतान के बारे में कुछ बताना चाहेंगी?",
+      "timestamp": "2026-02-11T17:43:13.212854",
+      "language": "hi-IN"
+    },
+    {
+      "speaker": "User",
+      "text": "मैं परसों पे कर दूँगी ठीक है",
+      "timestamp": "2026-02-11T17:43:18.833692",
+      "language": "hi-IN"
+    },
+    {
+      "speaker": "AI",
+      "text": "ठीक है, मैं समझ गई। तो आप परसों भुगतान कर देंगी, है ना? क्या आप मुझे बता सकती हैं कि परसों कौन सी तारीख होगी ताकि मैं रिकॉर्ड कर सकूं?",
+      "timestamp": "2026-02-11T17:43:21.623741",
+      "language": "hi-IN"
+    },
+    {
+      "speaker": "User",
+      "text": "मैं परसों पे कर दूँगी",
+      "timestamp": "2026-02-11T17:43:26.253309",
+      "language": "hi-IN"
+    },
+    {
+      "speaker": "AI",
+      "text": "जी, बहुत अच्छा। तो मैं मान लूं कि आप निश्चित रूप से परसों भुगतान कर देंगी? क्या आप मुझे भुगतान करने का कोई निश्चित समय बता सकती हैं ताकि मैं उसे नोट कर लूं?",
+      "timestamp": "2026-02-11T17:43:27.893310",
+      "language": "hi-IN"
+    },
+    {
+      "speaker": "User",
+      "text": "हम्म हम्म",
+      "timestamp": "2026-02-11T17:43:32.585569",
+      "language": "hi-IN"
+    },
+    {
+      "speaker": "AI",
+      "text": "मैं समझ गई। तो क्या मैं परसों के भुगतान को निश्चित मान सकती हूँ? क्या आप मुझे यह बता सकती हैं कि आप भुगतान किस माध्यम से करेंगी?",
+      "timestamp": "2026-02-11T17:43:33.753734",
+      "language": "hi-IN"
+    }
+  ],
+  "ai_analysis": {
+    "summary": "The AI collection agent contacted the borrower regarding a loan payment. The borrower stated they would make a payment in two days.",
+    "sentiment": "Neutral",
+    "sentiment_reasoning": "The user responds matter-of-factly to the AI's questions, without expressing strong positive or negative emotion.",
+    "intent": "Will Pay",
+    "intent_reasoning": "The borrower stated that she would pay in two days, indicating a commitment to making a payment.",
+    "payment_date": null
+  }
+}

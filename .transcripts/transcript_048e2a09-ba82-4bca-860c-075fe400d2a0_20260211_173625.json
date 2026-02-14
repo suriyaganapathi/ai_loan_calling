@@ -1,0 +1,74 @@
+{
+  "call_uuid": "048e2a09-ba82-4bca-860c-075fe400d2a0",
+  "start_time": "2026-02-11T17:35:10.524804",
+  "end_time": "2026-02-11T17:36:25.358968",
+  "duration_seconds": 69.65,
+  "preferred_language": "en-IN",
+  "final_language": "en-IN",
+  "language_switches": 0,
+  "language_history": [],
+  "conversation": [
+    {
+      "speaker": "AI",
+      "text": "Hello, I am calling from the finance agency regarding your loan payment. May I know your current payment status?",
+      "timestamp": "2026-02-11T17:35:10.524822",
+      "language": "en-IN"
+    },
+    {
+      "speaker": "User",
+      "text": "Hello, this is Satish calling from the Mukh Central office.",
+      "timestamp": "2026-02-11T17:35:22.354148",
+      "language": "en-IN"
+    },
+    {
+      "speaker": "AI",
+      "text": "Thank you for introducing yourself, Satish. Could you.",
+      "timestamp": "2026-02-11T17:35:24.588477",
+      "language": "en-IN"
+    },
+    {
+      "speaker": "User",
+      "text": "I will be paying day after tomorrow, is it fine to you?",
+      "timestamp": "2026-02-11T17:35:28.401681",
+      "language": "en-IN"
+    },
+    {
+      "speaker": "AI",
+      "text": "Thank you for letting us know. To ensure our records are accurate, could you please confirm the specific date you plan to make the payment?",
+      "timestamp": "2026-02-11T17:35:31.199450",
+      "language": "en-IN"
+    },
+    {
+      "speaker": "User",
+      "text": "I will be paying on 13th February 2026. Is it fine?",
+      "timestamp": "2026-02-11T17:35:49.990668",
+      "language": "en-IN"
+    },
+    {
+      "speaker": "AI",
+      "text": "Thank you for confirming the 13th of February 2026. We appreciate you providing a specific payment date.",
+      "timestamp": "2026-02-11T17:35:52.581618",
+      "language": "en-IN"
+    },
+    {
+      "speaker": "User",
+      "text": "Okay, Okay, Good Bye.",
+      "timestamp": "2026-02-11T17:36:08.083536",
+      "language": "en-IN"
+    },
+    {
+      "speaker": "AI",
+      "text": "Thank you for your time. We will record your.",
+      "timestamp": "2026-02-11T17:36:11.179820",
+      "language": "en-IN"
+    }
+  ],
+  "ai_analysis": {
+    "summary": "The AI collection agent contacted the borrower, Satish, regarding an overdue loan payment. Satish confirmed his intention to make the payment and, upon AI's request, provided a specific payment date of February 13th, 2026.",
+    "sentiment": "Positive",
+    "sentiment_reasoning": "The borrower was cooperative and willing to provide the requested payment information, proactively stating their intent to pay and confirming the specific date without hesitation or conflict.",
+    "intent": "Will Pay",
+    "intent_reasoning": "The borrower explicitly stated 'I will be paying day after tomorrow' and then confirmed 'I will be paying on 13th February 2026', indicating a clear commitment to make the payment on a future date.",
+    "payment_date": "2026-02-13"
+  }
+}

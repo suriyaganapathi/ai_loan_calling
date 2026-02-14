@@ -1,0 +1,39 @@
+{
+  "call_uuid": "19b271a7-733e-4064-88e1-ddec32218b35",
+  "start_time": "2026-02-11T17:56:45.570402",
+  "end_time": "2026-02-11T17:57:01.133403",
+  "duration_seconds": 15.05,
+  "preferred_language": "hi-IN",
+  "final_language": "hi-IN",
+  "language_switches": 0,
+  "language_history": [],
+  "conversation": [
+    {
+      "speaker": "AI",
+      "text": "नमस्ते, मैं वित्त एजेंसी से आपके लोन भुगतान के बारे में कॉल कर रही हूं। कृपया अपनी वर्तमान भुगतान स्थिति बताएं?",
+      "timestamp": "2026-02-11T17:56:45.570413",
+      "language": "hi-IN"
+    },
+    {
+      "speaker": "User",
+      "text": "नमस्ते मैं वित्त एजेंसी से आपके लोन भुगतान के बारे में कॉल कर रही हूँ कृपया अपनी वर्तमान भुगतान स्थिति बताओ",
+      "timestamp": "2026-02-11T17:56:56.092437",
+      "language": "hi-IN"
+    },
+    {
+      "speaker": "AI",
+      "text": "नमस्ते! मैं समझ रही हूँ। मैं आपसे ही।",
+      "timestamp": "2026-02-11T17:56:58.717581",
+      "language": "hi-IN"
+    }
+  ],
+  "ai_analysis": {
+    "summary": "Unable to analyze conversation - API error",
+    "sentiment": "Neutral",
+    "sentiment_reasoning": "Error in analysis",
+    "intent": "No Response",
+    "intent_reasoning": "Error in analysis",
+    "payment_date": null,
+    "error": "429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'Resource exhausted. Please try again later. Please refer to https://cloud.google.com/vertex-ai/generative-ai/docs/error-code-429 for more details.', 'status': 'RESOURCE_EXHAUSTED'}}"
+  }
+}
